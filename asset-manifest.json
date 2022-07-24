@@ -1,0 +1,23 @@
+{
+  "files": {
+    "app.js": "/TravelProject/static/js/app.66ab5930.chunk.js",
+    "app.js.map": "/TravelProject/static/js/app.66ab5930.chunk.js.map",
+    "runtime~app.js": "/TravelProject/static/js/runtime~app.421f8dcf.js",
+    "runtime~app.js.map": "/TravelProject/static/js/runtime~app.421f8dcf.js.map",
+    "static/js/2.c5319752.chunk.js": "/TravelProject/static/js/2.c5319752.chunk.js",
+    "static/js/2.c5319752.chunk.js.map": "/TravelProject/static/js/2.c5319752.chunk.js.map",
+    "fonts/MaterialCommunityIcons.ttf": "/TravelProject/./fonts/MaterialCommunityIcons.ttf",
+    "favicon-16.png": "/TravelProject/favicon-16.png",
+    "favicon-32.png": "/TravelProject/favicon-32.png",
+    "favicon.ico": "/TravelProject/favicon.ico",
+    "index.html": "/TravelProject/index.html",
+    "manifest.json": "/TravelProject/manifest.json",
+    "serve.json": "/TravelProject/serve.json",
+    "static/js/2.c5319752.chunk.js.LICENSE.txt": "/TravelProject/static/js/2.c5319752.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.421f8dcf.js",
+    "static/js/2.c5319752.chunk.js",
+    "static/js/app.66ab5930.chunk.js"
+  ]
+}
